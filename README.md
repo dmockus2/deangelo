@@ -1,5 +1,5 @@
 # deangelo
-This project verifies that the homicides reported in the [CDC WONDER](https://wonder.cdc.gov/mortSQL.html "Compressed Mortality File") exclude foreign resident deaths.
+This project verifies that the homicides reported in [CDC WONDER](https://wonder.cdc.gov/mortSQL.html "Compressed Mortality File") exclude foreign resident deaths.
 
 ## Prerequisites
 To run this project, you will need:
